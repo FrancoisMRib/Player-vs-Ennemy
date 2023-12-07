@@ -1,0 +1,12 @@
+#rectangle1 {
+    width: 100px;
+    height: 20px;
+    background: lightgray;
+    border-radius: 5px;
+} 
+
+#rectangle2 {
+    height: 20px;
+    background-color: green;
+    border-radius: 5px;
+}
